@@ -1,0 +1,2 @@
+# Espanso-Config
+Espanso-Config
